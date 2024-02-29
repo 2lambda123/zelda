@@ -2,7 +2,7 @@ repo_name: 2lambda123/zelda
 report_id: 4437d1b420b25220abba9cb7b05f0cbb
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T07:55:48+00:00'
+timestamp: '2024-02-29T19:17:58+00:00'
 requested_by: snorkell-ai[bot]
 provider: github
 branch: master
@@ -30,7 +30,7 @@ tools:
   detection_source_url: https://github.com/2lambda123/zelda
   detection_source: Repo Metadata
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
